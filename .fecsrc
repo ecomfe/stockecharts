@@ -1,0 +1,9 @@
+root: true
+
+eslint:
+    env:
+        react: true
+        import: true
+
+    rules:
+        no-console: 0

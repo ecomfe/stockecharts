@@ -1,0 +1,29 @@
+# node
+node_modules
+npm-debug.log
+yarn-error.log
+
+tmp
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# WebStorm
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# NPM
+*.tgz
+
+*.orig
+*.log
+
+.vscode/
+# vim history file
+.*.un~
+
